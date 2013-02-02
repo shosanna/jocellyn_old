@@ -1,0 +1,61 @@
+.container {
+  width: 400px;
+  position: relative;
+}
+
+.item {
+  margin: 10px;
+  display: block;
+  float: left;
+  width: 100px;
+  position: absolute;
+}
+
+.item1 {
+  left: 60px;
+  top: 130px;
+}
+
+.item2 {
+  left: 0px;
+  top: 270px;
+}
+
+.item3 {
+  left: 200px;
+  top: 70px;
+}
+
+.item4 {
+  left: 350px;
+  top: 130px;
+}
+
+.item5 {
+  left: 400px;
+  top: 270px;
+}
+
+.item6 {
+  left: 350px;
+  top: 410px;
+}
+
+.item7 {
+  left: 60px;
+  top: 410px;
+}
+
+.item8 {
+  left: 210px;
+  top: 470px;
+}
+
+.item9 {
+  left: 135px;
+  top: 200px;
+}
+
+.item.large {
+  width: 240px;
+}
