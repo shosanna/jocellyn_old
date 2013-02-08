@@ -1,8 +1,12 @@
 $(document).ready(function() {
+  var clickme = true;
+
   $(".small img").hide();
 
   $(".large img").mouseenter(function() {
-    $("div.clickme").append("Click me!");
+    if (clickme) {
+      $("div.clickme").append("Click me!");
+    }
   });
 
   $(".large img").mouseleave(function() {
@@ -10,6 +14,7 @@ $(document).ready(function() {
   });
 
   $(".large img").click(function() {
+    clickme = false;
     $(".small img").fadeTo(3000, 0.6);
   });
 
@@ -19,7 +24,7 @@ $(document).ready(function() {
 
   $(".small img").mouseenter(function() {
     var text = $(this).data("text");
-    $("div.linktext").append(text);
+    $("div.linktext").hide().append(text).fadeIn();
   });
 
    $(".small img").mouseleave(function() {
@@ -29,5 +34,6 @@ $(document).ready(function() {
   $(".small img").mouseleave(function() {
     $(this).stop().animate({width: "100px", opacity: 0.6}, 500);
   });
+
 
 });
