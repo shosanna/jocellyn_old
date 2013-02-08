@@ -22,6 +22,10 @@ $(document).ready(function() {
     $("div.linktext").append(text);
   });
 
+   $(".small img").mouseleave(function() {
+    $("div.linktext").empty();
+  });
+
   $(".small img").mouseleave(function() {
     $(this).stop().animate({width: "100px", opacity: 0.6}, 500);
   });
