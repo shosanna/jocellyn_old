@@ -4,6 +4,10 @@
   margin: auto;
 }
 
+img {
+  width: 100px;
+}
+
 .item {
   margin: 10px;
   display: block;
@@ -59,4 +63,8 @@
 
 .item.large {
   width: 240px;
+}
+
+.large_me {
+  width: 250px;
 }
