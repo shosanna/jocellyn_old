@@ -14,7 +14,14 @@ img {
   color: black;
   text-align: center;
   margin-top: 20px;
+}
 
+.linktext {
+  font-family: Courier;
+  font-size: 20px;
+  color: black;
+  text-align: right;
+  margin-top: 20px;
 }
 
 .item {

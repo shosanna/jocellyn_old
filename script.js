@@ -14,11 +14,16 @@ $(document).ready(function() {
   });
 
   $(".small img").mouseenter(function() {
-    $(this).animate({width: "120px", opacity: 1}, 500);
+    $(this).stop().animate({width: "120px", opacity: 1}, 500);
+  });
+
+  $(".small img").mouseenter(function() {
+    var text = $(this).data("text");
+    $("div.linktext").append(text);
   });
 
   $(".small img").mouseleave(function() {
-    $(this).width("100px");
+    $(this).stop().animate({width: "100px", opacity: 0.6}, 500);
   });
 
 });
