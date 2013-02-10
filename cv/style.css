@@ -1,0 +1,141 @@
+
+body {
+  font-family: helvetica;
+  font-size: 13px;
+  color: #8A546E;
+}
+
+a {
+  text-decoration: none;
+  color: #DF8FB5;
+  font-style: italic;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #8A546E;
+}
+
+h3 {
+  margin: 15px 0 0;
+  font-size: 18px;
+}
+
+h4 {
+  margin: 15px 0 5px 0;
+}
+
+h3 + h4 {
+  margin-top: 10px;
+}
+
+.cv {
+  margin: 50px auto 0;
+  width: 900px;
+}
+
+.header {
+  background: #EEEEEE;
+  border-radius: 10px;
+}
+
+.header h1 {
+  color: #7B6B72;
+  text-align: center;
+  font-size: 40px;
+  padding: 15px;
+  margin: 0;
+}
+
+.content {
+  overflow: hidden;
+}
+
+.column {
+  float: left;
+  width: 440px;
+}
+
+.box {
+  padding: 10px 20px;
+  width: 400px;
+  background: #EEEEEE;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+
+.box p {
+  margin: 5px 0 0 0;
+}
+
+.content .column:nth-child(odd) {
+  margin-right: 20px;
+}
+
+
+
+
+=======
+.container {
+  width: 400px;
+  position: relative;
+  margin: auto;
+}
+
+.item {
+  margin: 10px;
+  display: block;
+  float: left;
+  width: 100px;
+  position: absolute;
+}
+
+.item1 {
+  left: 60px;
+  top: 130px;
+}
+
+.item2 {
+  left: 0px;
+  top: 270px;
+}
+
+.item3 {
+  left: 200px;
+  top: 70px;
+}
+
+.item4 {
+  left: 350px;
+  top: 130px;
+}
+
+.item5 {
+  left: 400px;
+  top: 270px;
+}
+
+.item6 {
+  left: 350px;
+  top: 410px;
+}
+
+.item7 {
+  left: 60px;
+  top: 410px;
+}
+
+.item8 {
+  left: 210px;
+  top: 470px;
+}
+
+.item9 {
+  left: 135px;
+  top: 200px;
+}
+
+.item.large {
+  width: 240px;
+}
+>>>>>>> upstream/master
