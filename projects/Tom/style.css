@@ -1,0 +1,18 @@
+.selection {
+
+    font-family: georgia;
+    font-size: 18px;
+    margin: 80px 120px 0 120px;
+    text-align: justify;
+    color: #777A8F;
+}
+
+table {
+    margin: auto;
+    padding: 5px;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
