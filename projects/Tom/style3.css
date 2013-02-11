@@ -1,0 +1,17 @@
+.window {
+    font-family: georgia;
+    font-size: 18px;
+    margin: 80px 120px 0 120px;
+    text-align: justify;
+    color: #777A8F;
+}
+
+p.img {
+    text-decoration: underline;
+}
+
+img {
+    display: none;
+    width: 200px;
+    position: relative;
+}
