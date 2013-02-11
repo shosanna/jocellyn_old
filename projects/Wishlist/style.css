@@ -1,0 +1,80 @@
+body {
+    background-image: url("http://i.imgur.com/Lzzl5v4.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-family: Georgia;
+}
+
+.box {
+    background: #344662;
+    border: solid 1px black;
+    float: left;
+    height: 400px;
+    margin: 0px 0 0 50px;
+    opacity: 0.6;
+    overflow-y: scroll;
+    width: 270px;
+}
+
+input { float: left; font-size: 18px; height: 30px; }
+
+.button {
+    background: white;
+    color: #D01C76;
+    float: left;
+    font-size: 18px;
+    height: 30px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    padding-left: 5px;
+    padding-top: 5px;
+    width: 60px;
+}
+
+h1 { font-size: 26px; margin: 20px 0 0 50px; }
+
+.list { color: black; font-size: 18px; height: 400px; }
+
+.list p { background: white; margin-top: 10px; padding: 5px; text-align: center;}
+
+p:first-child { margin-top: 50px; }
+
+.next {
+    background: white;
+    border: 1px solid black;
+    color: black;
+    height: 30px;
+    padding-left: 3px;
+    width: 150px;
+    font-size: 24px;
+    opacity: 0.75;
+    float: left;
+    clear: both;
+    margin: 10px 0 0 140px;
+}
+
+img { border: 2px solid black; margin: 5px; width: 220px; }
+
+.image { float: left; left: 50px; position: relative; }
+
+.help {
+    clear: left;
+    font-size: 50px;
+    font-weight: bold;
+    float: left;
+    margin: 20px 0 0 50px;
+    width: 50px;
+}
+
+.helptext {
+    background-color: white;
+    font-size: 24px;
+    opacity: 0.75;
+    width: 900px;
+    padding: 5px;
+    float: left;
+    margin: 20px 0 0 40px;
+}
+
+
+
