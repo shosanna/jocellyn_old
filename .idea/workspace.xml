@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e5e9d7c-1d40-4fb0-9728-742a21e865c2" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/Tom/img/51.jpg" afterPath="$PROJECT_DIR$/projects/Tom/img/51.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/Tom/index.html" afterPath="$PROJECT_DIR$/projects/Tom/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/Tom/main.html" afterPath="$PROJECT_DIR$/projects/Tom/main.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/Tom/script.js" afterPath="$PROJECT_DIR$/projects/Tom/script.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/Tom/script3.js" afterPath="$PROJECT_DIR$/projects/Tom/script3.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/Tom/second.html" afterPath="$PROJECT_DIR$/projects/Tom/second.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/Tom/style.css" afterPath="$PROJECT_DIR$/projects/Tom/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/Tom/style2.css" afterPath="$PROJECT_DIR$/projects/Tom/style2.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/Tom/style3.css" afterPath="$PROJECT_DIR$/projects/Tom/style3.css" />
     </list>
     <ignored path="jocellyn.cz.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -22,19 +31,64 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="second.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="second.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/projects/Tom/second.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="33" selection-start="417" selection-end="417" vertical-scroll-proportion="-8.125">
+            <state line="11" column="48" selection-start="396" selection-end="396" vertical-scroll-proportion="0.26872963">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="script3.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projects/Tom/main.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="83" selection-start="1426" selection-end="1426" vertical-scroll-proportion="-5.6666665">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style2.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projects/Tom/style2.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="6" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projects/Tom/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="105" selection-start="1408" selection-end="1408" vertical-scroll-proportion="-13.458333">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projects/Tom/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="16" selection-start="165" selection-end="165" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="script.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projects/Tom/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="14" selection-start="547" selection-end="547" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="script3.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/projects/Tom/script3.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="28" selection-start="555" selection-end="555" vertical-scroll-proportion="0.45454547">
+            <state line="0" column="30" selection-start="30" selection-end="30" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -52,7 +106,7 @@
       <file leaf-file-name="style3.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/projects/Tom/style3.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="5" selection-start="142" selection-end="142" vertical-scroll-proportion="0.0">
+            <state line="31" column="20" selection-start="442" selection-end="442" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -73,20 +127,20 @@
       <list>
         <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/projects/Tom/style.css" />
-        <option value="$PROJECT_DIR$/projects/Tom/index.html" />
-        <option value="$PROJECT_DIR$/projects/Tom/script.js" />
-        <option value="$PROJECT_DIR$/projects/Tom/style2.css" />
         <option value="$PROJECT_DIR$/projects/Tom/script2.js" />
+        <option value="$PROJECT_DIR$/projects/Tom/script3.js" />
+        <option value="$PROJECT_DIR$/projects/Tom/style.css" />
+        <option value="$PROJECT_DIR$/projects/Tom/script.js" />
+        <option value="$PROJECT_DIR$/projects/Tom/index.html" />
         <option value="$PROJECT_DIR$/projects/Tom/main.html" />
+        <option value="$PROJECT_DIR$/projects/Tom/style2.css" />
         <option value="$PROJECT_DIR$/projects/Tom/style3.css" />
         <option value="$PROJECT_DIR$/projects/Tom/second.html" />
-        <option value="$PROJECT_DIR$/projects/Tom/script3.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="77" />
+    <option name="x" value="15" />
     <option name="y" value="22" />
     <option name="width" value="1209" />
     <option name="height" value="734" />
@@ -110,10 +164,13 @@
           <State>
             <id>Naming conventionsJavaScript</id>
           </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>JSSuspiciousNameCombination</id>
+            <id>CommaExpressionJS</id>
           </State>
         </selected-state>
       </profile-state>
@@ -301,7 +358,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="77" y="22" width="1209" height="734" extended-state="0" />
+    <frame x="15" y="22" width="1209" height="734" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32896653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -377,11 +434,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="23" selection-start="245" selection-end="245" vertical-scroll-proportion="0.022727273" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="68" selection-start="706" selection-end="706" vertical-scroll-proportion="0.023584906" />
@@ -419,28 +471,16 @@
         <state line="4" column="4" selection-start="61" selection-end="128" vertical-scroll-proportion="0.09630819" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projects/Tom/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="71" selection-start="139" selection-end="139" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projects/Tom/main.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="17" selection-start="519" selection-end="519" vertical-scroll-proportion="-8.75">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projects/Tom/style2.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="132" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/projects/Tom/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="21" selection-start="215" selection-end="215" vertical-scroll-proportion="0.11363637">
+        <state line="13" column="14" selection-start="547" selection-end="547" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/Tom/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="105" selection-start="1408" selection-end="1408" vertical-scroll-proportion="-13.458333">
           <folding />
         </state>
       </provider>
@@ -452,23 +492,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projects/Tom/style3.css">
+    <entry file="file://$PROJECT_DIR$/projects/Tom/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="5" selection-start="142" selection-end="142" vertical-scroll-proportion="0.0">
+        <state line="10" column="16" selection-start="165" selection-end="165" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projects/Tom/second.html">
+    <entry file="file://$PROJECT_DIR$/projects/Tom/style2.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="33" selection-start="417" selection-end="417" vertical-scroll-proportion="-8.125">
+        <state line="0" column="6" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/Tom/style3.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="20" selection-start="442" selection-end="442" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/projects/Tom/script3.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="28" selection-start="555" selection-end="555" vertical-scroll-proportion="0.45454547">
+        <state line="0" column="30" selection-start="30" selection-end="30" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/Tom/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="83" selection-start="1426" selection-end="1426" vertical-scroll-proportion="-5.6666665">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/Tom/second.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="48" selection-start="396" selection-end="396" vertical-scroll-proportion="0.26872963">
           <folding />
         </state>
       </provider>
