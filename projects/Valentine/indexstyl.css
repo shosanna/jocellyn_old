@@ -1,0 +1,60 @@
+body {
+    background: url("img/wall.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: #556b2f;
+}
+
+ul#menu {
+    width: 200px;
+    opacity: 0.9;
+}
+
+div.valentine {
+    width: 700px;
+    height: 500px;
+    border: 1px solid black;
+    margin: 40px auto;
+    background-color: #f5fffa;
+    opacity: 0.8;
+    font-family: Georgia, sans-serif;
+    font-size: 18px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+div.valentine p:first-child {
+    font-weight: bold;
+}
+
+strong {
+    font-weight: normal;
+    color: red;
+}
+
+div.video {
+    width: 700px;
+    border: 1px solid black;
+    margin: 40px auto;
+    background-color: #f5fffa;
+    opacity: 0.8;
+    font-family: Georgia, sans-serif;
+    font-size: 18px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.left {
+    float: left;
+    display: inline;
+}
+
+.right {
+    float: right;
+    display: inline;
+}
+
+.bottom {
+    clear: both;
+    text-align: center;
+}
