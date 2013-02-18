@@ -1,3 +1,4 @@
+/*Common for everything*/
 body {
     background: url("img/wall.jpg");
     background-repeat: no-repeat;
@@ -10,6 +11,11 @@ ul#menu {
     opacity: 0.9;
 }
 
+h1 {
+    text-align: center;
+    color: #778899;
+}
+/*Valentine*/
 div.valentine {
     width: 700px;
     height: 500px;
@@ -23,7 +29,7 @@ div.valentine {
     border-radius: 10px;
 }
 
-div.valentine p:first-child {
+div.valentine p:nth-child(2) {
     font-weight: bold;
 }
 
@@ -31,7 +37,7 @@ strong {
     font-weight: normal;
     color: red;
 }
-
+/*Video*/
 div.video {
     width: 700px;
     border: 1px solid black;
@@ -58,3 +64,119 @@ div.video {
     clear: both;
     text-align: center;
 }
+/*Nuf*/
+div.nuf img {
+    width: 500px;
+    margin: 10px auto 0 auto;
+    display: block;
+}
+
+img:first-child {
+    margin-top: 50px;
+}
+
+div.nuf {
+    width: 700px;
+    border: 1px solid black;
+    margin: 40px auto;
+    background-color: #f5fffa;
+    opacity: 0.8;
+    font-family: Georgia, sans-serif;
+    font-size: 18px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/*cute*/
+div.cute {
+    width: 700px;
+    border: 1px solid black;
+    margin: 40px auto;
+    background-color: #f5fffa;
+    opacity: 0.9;
+    font-family: Georgia, sans-serif;
+    font-size: 18px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+div.cute img {
+    height: 150px;
+    margin: 10px;
+}
+
+/*Sexy*/
+div.sexy {
+    width: 700px;
+    border: 1px solid black;
+    margin: 40px auto;
+    background-color: #f5fffa;
+    opacity: 0.9;
+    font-family: Georgia, sans-serif;
+    font-size: 18px;
+    padding: 20px;
+    border-radius: 10px;
+}
+div.sexy ul {
+    text-align: center;
+    list-style: none;
+}
+
+/*Listology*/
+
+div.listology {
+    width: 700px;
+    height: 2000px;
+    border: 1px solid black;
+    margin: 40px auto;
+    background-color: #f5fffa;
+    opacity: 0.9;
+    font-family: Georgia, sans-serif;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.mylist, .box, .common, .momments {
+    width: 300px;
+    padding: 5px;
+}
+
+.mylist, .common {
+    float: left;
+}
+
+.box, .momments {
+    float: right;
+}
+
+.mylist ul, .box ul, .common ul, .momments ul {
+    list-style: none;
+    padding: 5px;
+}
+
+.mylist ul li, .box ul li, .common ul li, .momments ul li{
+    background-color: #f08080;
+    margin: 5px;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+div.listology h2 {
+    color: black;
+    font-size: 18px;
+    display: inline;
+    }
+
+input {
+    float: left;
+    margin: 5px;
+}
+
+div.button {
+    padding: 5px;
+}
+
+.common {
+    clear: both;
+}
+

@@ -60,5 +60,7 @@ $(document).ready(function() {
         $(".helptext").hide(800);
     });
 
+   $()
+
 });
 
